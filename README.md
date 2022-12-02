@@ -1,1 +1,1 @@
-# Prova-X-C-digos-Prolog
+### Código Prolog Avaliação X Lógica Aplicada (Prof: Tânia).
